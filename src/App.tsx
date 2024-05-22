@@ -1,4 +1,5 @@
 import './App.css';
+import '../components/Ball/Ball.css';
 import {useState} from 'react';
 import Ball from '../components/Ball/Ball';
 
